@@ -1,6 +1,6 @@
 
 
-# PaperGen AI - Automated IEEE Formatter & AI Reviewer
+# AutoIEE - Automated IEEE Formatter & AI Reviewer
 
 This project aims to create a tool that automatically formats academic papers into the IEEE conference style and provides AI-powered feedback to improve the paper's quality.
 
