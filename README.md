@@ -1,6 +1,4 @@
-Okay, here's a draft for your `README.md` file summarizing the project's progress and next steps.
 
----
 
 # PaperGen AI - Automated IEEE Formatter & AI Reviewer
 
